@@ -1,0 +1,7 @@
+ex_form.routing:
+  path: '/ex-form'
+  defaults:
+    _form:  '\Drupal\ex_form\Form\ExForm'
+    _title: 'Form for Hubspot'
+  requirements:
+    _permission: 'access content'

@@ -1,0 +1,4 @@
+name: 'Ex From'
+description: 'Собственный модуль формы для отправки данных на Hubspot'
+core: 8.x
+type: module
